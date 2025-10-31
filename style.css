@@ -70,7 +70,7 @@ body {
 
 .answers-container {
   display: flex;
-  flex-direcntion: column;
+  flex-direction: column;
   gap: 10px;
   margin-bottom: 35px;
 }
